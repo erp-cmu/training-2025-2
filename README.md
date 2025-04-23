@@ -11,7 +11,7 @@
 
 - [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/844RxGB62Bm)
 
-- [วีดีโอ (Youtube)](#)
+- [วีดีโอ (Youtube)](https://youtube.com/playlist?list=PLNGLpHQhvGrt_cm9N_7OJM1_pIri_7kYT&si=ObJwLacH_hjHnwen)
 
 ## Topics
 
