@@ -1,6 +1,5 @@
 # Installation
 
-
 ## Frappe Cloud Method
 - [Frappe Cloud](https://frappecloud.com/)
 

@@ -7,7 +7,7 @@
 
 - [เอกสารการอบรม](#)
 
-- [การติดตั้ง ERPNext](./erpnext_installation.md)
+- [การติดตั้ง ERPNext](https://github.com/erp-cmu/training-2025-2/blob/main/erpnext_installation.md)
 
 - [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/844RxGB62Bm)
 
