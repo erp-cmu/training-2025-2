@@ -1,5 +1,7 @@
 # Installation
 
+- [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/6v1BoWPazp5)
+
 ## Frappe Cloud Method
 - [Frappe Cloud](https://frappecloud.com/)
 
